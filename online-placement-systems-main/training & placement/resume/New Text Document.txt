@@ -1,0 +1,2 @@
+This code prints the content of the input file
+ exactly the same as is there in the input file.
